@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Eu sou o Josué Júnior 👋😄
 
-- 🔭 Atualmente trabalho com Química Industrial em Laboratórios
+- 🔭 Atualmente trabalho com Química Industrial em Laboratórios e sou Engenheiro de Produção
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 - 💬 Contate-me no e-mail: josue.severiino@gmail.com
 - 😄 Pronomes: ele/dele
