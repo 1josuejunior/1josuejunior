@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com Química Industrial em Laboratórios
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 - 💬 Contate-me no e-mail: josue.severiino@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/1josuejunior">
