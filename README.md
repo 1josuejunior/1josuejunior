@@ -1,14 +1,14 @@
 ## Olá, tudo bem? Eu sou o Josué Júnior 👋😄
 
-- 🔭 Hoje trabalho com Química Industrial em Laboratórios
+- 🔭 Atualmente trabalho com Química Industrial em Laboratórios
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 - 💬 Contate-me no e-mail: josue.severiino@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/1josuejunior">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=1josuejunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1josuejunior&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1josuejunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1josuejunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
